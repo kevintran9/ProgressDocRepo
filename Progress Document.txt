@@ -1,3 +1,19 @@
 Kevin Tran - Software Systms Capstone Prjct
 
 This document shows my individual progress on the project
+
+Accomplishments of the 8th of January inlcude:
+- Familiarizing myself with GitHub, including creating a git file, fetching, commiting, and commenting
+- Familiarizing myself with the course syllabus and what to expect for the course
+- Reading and writing a summary and opinion of CodeV2 Chapter 1 with responses to other students in the discussion board
+- Submitting progress document #1 - Github assignment using GitHub
+
+Accomplishments of the 15th of January include:
+- Updating the progress document to display what has been accomplished for the current week
+- Reading and writing a summary and opinion of CodeV2 Chapter 2 with responses to other students in the discussion board
+- Create and submit my first Open Reading Document of the chosen book, Weapons of Math Destruction by Cathy O'Neil
+
+Goals for the next week, 22nd of January include:
+- Updating the progress document to display what has been accomplished for the current week
+- Reading and writing a summary and opinion of CodeV2 Chapter 4 with responses to other students in the discussion board
+- Attend and particupate in the upcoming lecture
