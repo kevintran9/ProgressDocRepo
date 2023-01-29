@@ -13,7 +13,14 @@ Accomplishments of the 15th of January include:
 - Reading and writing a summary and opinion of CodeV2 Chapter 2 with responses to other students in the discussion board
 - Create and submit my first Open Reading Document of the chosen book, Weapons of Math Destruction by Cathy O'Neil
 
-Goals for the next week, 22nd of January include:
+Accomplishments of the 22nd of January include:
 - Updating the progress document to display what has been accomplished for the current week
 - Reading and writing a summary and opinion of CodeV2 Chapter 4 with responses to other students in the discussion board
-- Attend and particupate in the upcoming lecture
+- Attending and participating in the weekly lecture
+- Familiarizing myself with Azure and ReactJS
+
+Goals for the next week, 29th of January include:
+- Updating the progress document to display what has been accomplished for the current week
+- Reading and writing a summary and opinion of CodeV2 Chapter 5 with responses to other students in the discussion board
+- Reading and submitting my second open reading document of 'Weapons of Math Destruction' by Cathy O'Neil
+- Preparing for the oral reflection section conducted by the CELF
