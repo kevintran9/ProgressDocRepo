@@ -19,8 +19,18 @@ Accomplishments of the 22nd of January include:
 - Attending and participating in the weekly lecture
 - Familiarizing myself with Azure and ReactJS
 
-Goals for the next week, 29th of January include:
+Accomplishments of the 29nd of January include:
 - Updating the progress document to display what has been accomplished for the current week
 - Reading and writing a summary and opinion of CodeV2 Chapter 5 with responses to other students in the discussion board
 - Reading and submitting my second open reading document of 'Weapons of Math Destruction' by Cathy O'Neil
 - Preparing for the oral reflection section conducted by the CELF
+- Communicating with the team to discuss the project that we would like to create
+- Create/join a discord chat and Google document to communicate with the team
+- Attending and participating in the weekly lecture
+- Learn and familiarize myself with ReactJS for the project
+
+Goals for the next week, 5th of February include:
+- Updating the progress document to display what has been accomplished for the current week
+- Reading and writing a summary and opinion of CodeV2 Chapter 7 with responses to other students in the discussion board
+- Join the discord chat at the time set with the project team to discuss more about the direction of the project
+- Attending and participating in the weekly lecture
