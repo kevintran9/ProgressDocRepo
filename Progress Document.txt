@@ -53,7 +53,7 @@ Accomplishments of the 19th of February include:
 - Set up GitHub for the project for better access to updated work
 - Creating a Google Doc for the project manual and writing the proposal/use and requirements section
 
-Goals for the next week, 26th of February include:
+Accomplishments of the 26th of February include:
 - Updating the progress document to display what has been accomplished for the current week
 - Reading and writing a summary and opinion of CodeV2 with responses to other students in the discussion board
 - Attending and participating in the weekly lecture
@@ -61,3 +61,8 @@ Goals for the next week, 26th of February include:
 - Join the discord chat at the time set with the team with the Home, register, login, about us page linked in ReactJS
 - Discuss with the group what features we would like to have for the project, such as role authentication login
 - Working on the database and application workflow section of the project manual
+- Created an entity-relational diagram for the database section of the project manual
+
+Goals for the next week, 5th of March include:
+- Complete the project manual
+- Enjoy Spring Break :)
